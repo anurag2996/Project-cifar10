@@ -4,4 +4,4 @@
 
 Implemented Cifar10 Image Classification Using CNN and batchNormalization on the data.
 
-achieved Training accuracy of 93.8% and Testing accuracy of 84.48%
+achieved Training accuracy of 93.8% and Testing accuracy of 84.48% [cifar_10_cnn](https://github.com/anurag2996/Project-cifar10/blob/master/cifar10_cnn.ipynb)
