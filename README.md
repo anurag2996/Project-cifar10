@@ -10,4 +10,8 @@ Implemented Cifar10 Image Classification Using CNN and batchNormalization on the
 
 ## Output
 ### Correct Predictions
-![Screenshot](output2.png){width="200px", height="200px"}
+![Screenshot](output2.png)
+![Screenshot](output3.png)
+
+### Incorrect Prediction
+![Screenshot](output1.png)
