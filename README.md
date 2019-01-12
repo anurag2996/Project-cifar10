@@ -8,6 +8,6 @@ Implemented Cifar10 Image Classification Using CNN and batchNormalization on the
 
 2. Achieved Training accuracy of 96.34% and Testing accuracy of 85.75% [[cifar10_keras]](https://github.com/anurag2996/Project-cifar10/blob/master/cifar10_keras_2.ipynb)
 
-##Output
-###Correct Predictions
-![Screenshot](output2.png) {:width=300px height=300px}
+## Output
+### Correct Predictions
+![Screenshot](output2.png){:width="200px", height="200px"}
